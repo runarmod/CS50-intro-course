@@ -1,0 +1,6 @@
+Spør bruker om float
+Trekk fra høyeste mynten (counter++) helt til tallet blir negativt, reverser
+Gjør så samme med neste
+Og neste
+Og siste
+Print antall
